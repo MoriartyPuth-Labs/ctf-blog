@@ -2,27 +2,33 @@
 
 * [About](README.md)
 
-## Writeups
+## VULNHUB WRITEUPS
 
-* [Cambodia Cyber Arena 2026](writeups/cyber-arena-2026/README.md)
-  * [Speedrun](writeups/cyber-arena-2026/speedrun.md)
-  * [Off The Record](writeups/cyber-arena-2026/off-the-record.md)
-  * [TrojanHorse](writeups/cyber-arena-2026/trojanhorse.md)
-  * [nevergonna](writeups/cyber-arena-2026/nevergonna.md)
-  * [Indigo Notes](writeups/cyber-arena-2026/indigo-notes.md)
-  * [Deathnote](writeups/cyber-arena-2026/deathnote.md)
-* [AUPP Certified Stalker 2026](writeups/aupp-certified-stalker-2026/README.md)
-  * [Static Web Basic](writeups/aupp-certified-stalker-2026/static-web-basic.md)
-* [D^3CTF 2026](writeups/d-3ctf-2026/README.md)
-  * [D3HFERP](writeups/d-3ctf-2026/d3hferp.md)
-  * [proxyport](writeups/d-3ctf-2026/proxyport.md)
-  * [d3kbus](writeups/d-3ctf-2026/d3kbus.md)
-  * [d3kheap2pro](writeups/d-3ctf-2026/d3kheap2pro.md)
-  * [d3gomoku](writeups/d-3ctf-2026/d3gomoku.md)
-  * [d3llvm](writeups/d-3ctf-2026/d3llvm.md)
-  * [PacMan](writeups/d-3ctf-2026/pacman.md)
-  * [Ghost Zero](writeups/d-3ctf-2026/ghost-zero.md)
-  * [Scope Drift](writeups/d-3ctf-2026/scope-drift.md)
+* [Katana](vulnhub-writeups/katana.md)
+* [Holynix v1](vulnhub-writeups/holynix-v1.md)
+* [SkyDog](vulnhub-writeups/skydog.md)
+
+## CTF Writeups
+
+* [Cambodia Cyber Arena 2026](ctf-writeups/cyber-arena-2026/README.md)
+  * [Speedrun](ctf-writeups/cyber-arena-2026/speedrun.md)
+  * [Off The Record](ctf-writeups/cyber-arena-2026/off-the-record.md)
+  * [TrojanHorse](ctf-writeups/cyber-arena-2026/trojanhorse.md)
+  * [nevergonna](ctf-writeups/cyber-arena-2026/nevergonna.md)
+  * [Indigo Notes](ctf-writeups/cyber-arena-2026/indigo-notes.md)
+  * [Deathnote](ctf-writeups/cyber-arena-2026/deathnote.md)
+* [AUPP Certified Stalker 2026](ctf-writeups/aupp-certified-stalker-2026/README.md)
+  * [Static Web Basic](ctf-writeups/aupp-certified-stalker-2026/static-web-basic.md)
+* [D^3CTF 2026](ctf-writeups/d-3ctf-2026/README.md)
+  * [D3HFERP](ctf-writeups/d-3ctf-2026/d3hferp.md)
+  * [proxyport](ctf-writeups/d-3ctf-2026/proxyport.md)
+  * [d3kbus](ctf-writeups/d-3ctf-2026/d3kbus.md)
+  * [d3kheap2pro](ctf-writeups/d-3ctf-2026/d3kheap2pro.md)
+  * [d3gomoku](ctf-writeups/d-3ctf-2026/d3gomoku.md)
+  * [d3llvm](ctf-writeups/d-3ctf-2026/d3llvm.md)
+  * [PacMan](ctf-writeups/d-3ctf-2026/pacman.md)
+  * [Ghost Zero](ctf-writeups/d-3ctf-2026/ghost-zero.md)
+  * [Scope Drift](ctf-writeups/d-3ctf-2026/scope-drift.md)
 
 ***
 
