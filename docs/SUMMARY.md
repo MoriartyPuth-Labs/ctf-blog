@@ -32,16 +32,13 @@
       * [Ghost Zero](ctf-writeups/d3ctf-2026/web/ghost-zero.md)
       * [Scope Drift](ctf-writeups/d3ctf-2026/web/scope-drift.md)
   * [Cambodia Cyber Arena 2026](ctf-writeups/cambodia-cyber-arena-2026/README.md)
-    * 🌐 Web
-      * [IndigoNotes](ctf-writeups/cambodia-cyber-arena-2026/web/indigonotes.md)
-    * ⚔️ Pwn
-      * [SpeedRun](ctf-writeups/cambodia-cyber-arena-2026/pwn/speedrun.md)
-      * [OffTheRecord](ctf-writeups/cambodia-cyber-arena-2026/pwn/offtherecord.md)
-    * 🔐 Crypto
-      * [TrojanHorse](ctf-writeups/cambodia-cyber-arena-2026/crypto/trojanhorse.md)
-    * 🔍 Reverse
-      * [nevergonna](ctf-writeups/cambodia-cyber-arena-2026/reverse/nevergonna.md)
-      * [DeathNote](ctf-writeups/cambodia-cyber-arena-2026/reverse/deathnote.md)
+    * [IndigoNotes](ctf-writeups/cambodia-cyber-arena-2026/writeups/indigonotes/README.md)
+    * [SpeedRun](ctf-writeups/cambodia-cyber-arena-2026/writeups/speedrun/README.md)
+    * [OffTheRecord](ctf-writeups/cambodia-cyber-arena-2026/writeups/offtherecord/README.md)
+    * [TrojanHorse](ctf-writeups/cambodia-cyber-arena-2026/writeups/trojanhorse/README.md)
+    * [nevergonna](ctf-writeups/cambodia-cyber-arena-2026/writeups/nevergonna/README.md)
+    * [DeathNote](ctf-writeups/cambodia-cyber-arena-2026/writeups/deathnote/README.md)
+
 
   * [Crackmes & RE](ctf-writeups/crackmes/README.md)
   * [VulnHub Writeups](ctf-writeups/vulnhub/README.md)
