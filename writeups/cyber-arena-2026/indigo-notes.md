@@ -1,6 +1,8 @@
 # Indigo Notes
 
-> **Category:** Web · **Flag:** `MPTC{mforst3r1ng_nosql_1nject10n_in_2026_05ad360526c}`
+> **Category:** Web
+>
+> **Flag:** `MPTC{mforst3r1ng_nosql_1nject10n_in_2026_05ad360526c}`
 
 > _"A note-taking app, built in a few days. The boss insisted on PostgreSQL after the fact. The dev SWORE never to use SQL again. Say NO to SQL. IT'S ALREADY SECURED."_
 

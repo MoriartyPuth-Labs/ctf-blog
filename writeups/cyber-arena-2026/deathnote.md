@@ -1,6 +1,8 @@
 # Deathnote
 
-> **Category**: Reversing · **Flag:** `MPTC{4ll_4cc0rd1ng_t0_k3ik4ku}`
+> **Category**: Reversing
+>
+> **Flag:** `MPTC{4ll_4cc0rd1ng_t0_k3ik4ku}`
 
 > _"A notebook falls out of the sky: write a name and that person is yours. Write the right name and it gives up what it's been guarding. Write the wrong one and... nothing."_
 >

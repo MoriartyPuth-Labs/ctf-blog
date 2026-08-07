@@ -1,6 +1,8 @@
 # Static Web Basic
 
-> **Category**: Web · **Flag**: `auppCTF{static_web_instance}`
+> **Category**: Web
+>
+> **Flag**: `auppCTF{static_web_instance}`
 
 ***
 

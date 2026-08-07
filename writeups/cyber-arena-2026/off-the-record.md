@@ -1,6 +1,8 @@
 # Off The Record
 
-> **Category:** Pwn · **Flag:** `MPTC{th3_1nt3rn_15_n0t_g3tt1ng_4_r41s3}`
+> **Category:** Pwn
+>
+> **Flag:** `MPTC{th3_1nt3rn_15_n0t_g3tt1ng_4_r41s3}`
 
 > _"A newsroom anonymous tip line, duct-taped together by one intern at 3 a.m. The spicy stuff lands in a drawer stamped do not publish. The intern PROMISED that drawer was locked."_
 

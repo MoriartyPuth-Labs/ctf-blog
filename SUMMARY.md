@@ -13,6 +13,16 @@
   * [Deathnote](writeups/cyber-arena-2026/deathnote.md)
 * [AUPP Certified Stalker 2026](writeups/aupp-certified-stalker-2026/README.md)
   * [Static Web Basic](writeups/aupp-certified-stalker-2026/static-web-basic.md)
+* [D^3CTF 2026](writeups/d-3ctf-2026/README.md)
+  * [D3HFERP](writeups/d-3ctf-2026/d3hferp.md)
+  * [proxyport](writeups/d-3ctf-2026/proxyport.md)
+  * [d3kbus](writeups/d-3ctf-2026/d3kbus.md)
+  * [d3kheap2pro](writeups/d-3ctf-2026/d3kheap2pro.md)
+  * [d3gomoku](writeups/d-3ctf-2026/d3gomoku.md)
+  * [d3llvm](writeups/d-3ctf-2026/d3llvm.md)
+  * [PacMan](writeups/d-3ctf-2026/pacman.md)
+  * [Ghost Zero](writeups/d-3ctf-2026/ghost-zero.md)
+  * [Scope Drift](writeups/d-3ctf-2026/scope-drift.md)
 
 ***
 

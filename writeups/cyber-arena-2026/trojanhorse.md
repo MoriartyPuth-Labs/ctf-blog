@@ -1,6 +1,8 @@
 # TrojanHorse
 
-> **Category:** Crypto / Pwn · **Flag:** `MPTC{n3v3r_tru5t_4_p4t13nt_gr33k_b34r1ng_g1ft5}`
+> **Category:** Crypto / Pwn
+>
+> **Flag:** `MPTC{n3v3r_tru5t_4_p4t13nt_gr33k_b34r1ng_g1ft5}`
 
 > _"The gates open for no army — but they swing wide every evening for gifts. Bring something shiny, get the keeper's seal on it, waltz right in."_
 
