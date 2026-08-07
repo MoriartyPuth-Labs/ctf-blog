@@ -54,19 +54,6 @@
   * [Hardware & OS Defenses](binary-exploitation/memory-safety/hardware-and-os-defenses.md)
   * [Memory-Safe Languages & Mitigations](binary-exploitation/memory-safety/memory-safe-languages-and-mitigations.md)
 
-## VULNHUB WRITEUPS
-
-* [Katana](vulnhub-writeups/katana.md)
-* [Holynix v1](vulnhub-writeups/holynix-v1.md)
-* [SkyDog](vulnhub-writeups/skydog.md)
-* [Super Mario](vulnhub-writeups/super-mario.md)
-* [VulnOS: 1](vulnhub-writeups/vulnos-1.md)
-* [VulnOS 2.0](vulnhub-writeups/vulnos-2.0.md)
-* [Star Wars: 1](vulnhub-writeups/star-wars-1.md)
-* [Jigsaw: 1](vulnhub-writeups/jigsaw-1.md)
-* [Sunset: Dusk](vulnhub-writeups/sunset-dusk.md)
-* [Sunset: Sunrise](vulnhub-writeups/sunset-sunrise.md)
-
 ## CTF Writeups
 
 * [Cambodia Cyber Arena 2026](ctf-writeups/cyber-arena-2026/README.md)
@@ -121,3 +108,16 @@
   * [H34p D3v1l](ctf-writeups/lykn-ctf-2026/h34p-d3v1l.md)
   * [Golfing](ctf-writeups/lykn-ctf-2026/golfing.md)
   * [ez pwn revenge](ctf-writeups/lykn-ctf-2026/ez-pwn-revenge.md)
+
+## VULNHUB WRITEUPS
+
+* [Katana](vulnhub-writeups/katana.md)
+* [Holynix v1](vulnhub-writeups/holynix-v1.md)
+* [SkyDog](vulnhub-writeups/skydog.md)
+* [Super Mario](vulnhub-writeups/super-mario.md)
+* [VulnOS: 1](vulnhub-writeups/vulnos-1.md)
+* [VulnOS 2.0](vulnhub-writeups/vulnos-2.0.md)
+* [Star Wars: 1](vulnhub-writeups/star-wars-1.md)
+* [Jigsaw: 1](vulnhub-writeups/jigsaw-1.md)
+* [Sunset: Dusk](vulnhub-writeups/sunset-dusk.md)
+* [Sunset: Sunrise](vulnhub-writeups/sunset-sunrise.md)
