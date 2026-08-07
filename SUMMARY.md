@@ -49,6 +49,11 @@
   * [a matter of time](ctf-writeups/crackmes-re-ctf-2026/a-matter-of-time.md)
   * [Matryoshka v2](ctf-writeups/crackmes-re-ctf-2026/matryoshka-v2.md)
   * [FLRSCRNSVR](ctf-writeups/crackmes-re-ctf-2026/flrscrnsvr.md)
+* [Bronco CTF 2026](ctf-writeups/bronco-ctf-2026/README.md)
+  * [Blorg Multiplier](ctf-writeups/bronco-ctf-2026/blorg-multiplier.md)
+  * [Consistently Static Psuedo Random Number Generator](ctf-writeups/bronco-ctf-2026/consistently-static-psuedo-random-number-generator.md)
+  * [Custom Cipher](ctf-writeups/bronco-ctf-2026/custom-cipher.md)
+  * [World's Hardestest Flag](ctf-writeups/bronco-ctf-2026/worlds-hardestest-flag.md)
 
 ***
 
