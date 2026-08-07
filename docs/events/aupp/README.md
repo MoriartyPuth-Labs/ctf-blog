@@ -1,14 +1,7 @@
-# 🏆 Aupp
+# 🏆 Aupp Archive
 
-Welcome to the writeups archive for **Aupp**.
+CTF challenge writeups solved in **Aupp**.
 
-### 📊 Overview & Stats
-- **Total Challenges Solved**: `2`
-- **Categories Covered**: `Misc` (2)
+### 📜 Challenges Solved (1)
 
-### 🗂️ Categories
-
-#### 🎲 [Misc](misc/README.md)
-- [Assignment.Ref](misc/assignmentref.md)
-- [Scenario](misc/scenario.md)
-
+- [Scenario](../../pwn/general/scenario.md) — Category: `Binary Exploitation`

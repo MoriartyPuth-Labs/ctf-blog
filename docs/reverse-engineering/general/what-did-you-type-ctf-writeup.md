@@ -1,6 +1,6 @@
 # What did you type — CTF Writeup
 
-**Event**: `Writeups` | **Category**: `Misc`
+**Category**: `Reverse Engineering` | **Topic**: `General` | **Source / Event**: `Writeups`
 
 ---
 

@@ -1,6 +1,6 @@
 # proxyport
 
-**Event**: `D3Ctf 2026` | **Category**: `Misc`
+**Category**: `Misc & Case Studies` | **Topic**: `General` | **Source / Event**: `D3Ctf 2026`
 
 ---
 

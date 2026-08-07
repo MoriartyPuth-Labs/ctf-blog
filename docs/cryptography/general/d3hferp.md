@@ -1,6 +1,6 @@
 # D3HFERP
 
-**Event**: `D3Ctf 2026` | **Category**: `Cryptography`
+**Category**: `Cryptography` | **Topic**: `General` | **Source / Event**: `D3Ctf 2026`
 
 ---
 

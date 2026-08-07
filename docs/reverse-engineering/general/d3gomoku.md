@@ -1,6 +1,6 @@
 # d3gomoku
 
-**Event**: `D3Ctf 2026` | **Category**: `Reverse Engineering`
+**Category**: `Reverse Engineering` | **Topic**: `General` | **Source / Event**: `D3Ctf 2026`
 
 ---
 

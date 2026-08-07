@@ -1,6 +1,6 @@
 # d3kbus
 
-**Event**: `D3Ctf 2026` | **Category**: `Pwn`
+**Category**: `Binary Exploitation` | **Topic**: `General` | **Source / Event**: `D3Ctf 2026`
 
 ---
 

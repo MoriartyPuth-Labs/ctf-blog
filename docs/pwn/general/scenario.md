@@ -1,6 +1,6 @@
 # Scenario
 
-**Event**: `Aupp` | **Category**: `Misc`
+**Category**: `Binary Exploitation` | **Topic**: `General` | **Source / Event**: `Aupp`
 
 ---
 

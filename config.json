@@ -12,34 +12,62 @@
   "output_dir": "docs",
   "summary_file": "SUMMARY.md",
   "root_readme": "README.md",
-  "blog_title": "MoriartyPuth Labs - Cybersecurity & CTF Writeups",
-  "blog_description": "A curated collection of Capture The Flag (CTF) writeups, security research, and vulnerability analysis across Web, Pwn, Crypto, Reverse Engineering, Forensics, and OSINT.",
-  "category_order": [
-    "Web",
-    "Pwn",
-    "Reverse Engineering",
-    "Cryptography",
-    "Forensics",
-    "OSINT",
-    "Misc"
-  ],
+  "blog_title": "MoriartyPuth Labs - Security Research & CTF Notes",
+  "blog_description": "Comprehensive cybersecurity notes, binary exploitation, reverse engineering, web security, cryptography, and CTF challenge writeups.",
+  "categories": {
+    "Binary Exploitation": {
+      "icon": "⚔️",
+      "slug": "pwn",
+      "subcategories": ["Stack", "Heap", "Format Strings", "Kernel", "Shellcode", "ROP", "General"]
+    },
+    "Reverse Engineering": {
+      "icon": "🔍",
+      "slug": "reverse-engineering",
+      "subcategories": ["Assembly", "Decompilation", "Crackmes", "Malware", "General"]
+    },
+    "Web Exploitation": {
+      "icon": "🌐",
+      "slug": "web-exploitation",
+      "subcategories": ["SQL Injection", "XSS", "SSTI", "SSRF", "Authentication Bypass", "General"]
+    },
+    "Cryptography": {
+      "icon": "🔐",
+      "slug": "cryptography",
+      "subcategories": ["RSA", "AES", "ECC", "Lattice", "General"]
+    },
+    "Forensics": {
+      "icon": "🕵️",
+      "slug": "forensics",
+      "subcategories": ["Memory", "Network", "Steganography", "General"]
+    },
+    "OSINT": {
+      "icon": "🧭",
+      "slug": "osint",
+      "subcategories": ["Geolocation", "Recon", "General"]
+    },
+    "Misc & Case Studies": {
+      "icon": "🎲",
+      "slug": "misc",
+      "subcategories": ["Security Case Studies", "Labs", "General"]
+    }
+  },
   "category_aliases": {
-    "web": "Web",
-    "web-exploitation": "Web",
-    "pwn": "Pwn",
-    "binary-exploitation": "Pwn",
+    "pwn": "Binary Exploitation",
+    "binary-exploitation": "Binary Exploitation",
+    "binary": "Binary Exploitation",
     "rev": "Reverse Engineering",
     "reverse": "Reverse Engineering",
     "reversing": "Reverse Engineering",
+    "crackme": "Reverse Engineering",
+    "web": "Web Exploitation",
+    "web-exploitation": "Web Exploitation",
     "crypto": "Cryptography",
     "cryptography": "Cryptography",
     "forensics": "Forensics",
     "stego": "Forensics",
     "osint": "OSINT",
-    "misc": "Misc",
-    "hardware": "Hardware",
-    "cloud": "Cloud",
-    "blockchain": "Blockchain",
-    "ai": "AI / ML"
+    "misc": "Misc & Case Studies",
+    "case-study": "Misc & Case Studies",
+    "lab": "Misc & Case Studies"
   }
 }

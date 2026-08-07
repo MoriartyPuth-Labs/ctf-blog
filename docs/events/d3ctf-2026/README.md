@@ -1,29 +1,15 @@
-# 🏆 D3Ctf 2026
+# 🏆 D3Ctf 2026 Archive
 
-Welcome to the writeups archive for **D3Ctf 2026**.
+CTF challenge writeups solved in **D3Ctf 2026**.
 
-### 📊 Overview & Stats
-- **Total Challenges Solved**: `9`
-- **Categories Covered**: `Cryptography` (1), `Misc` (1), `Pwn` (2), `Reverse Engineering` (3), `Web` (2)
+### 📜 Challenges Solved (9)
 
-### 🗂️ Categories
-
-#### 🔐 [Cryptography](cryptography/README.md)
-- [D3HFERP](cryptography/d3hferp.md)
-
-#### 🎲 [Misc](misc/README.md)
-- [proxyport](misc/proxyport.md)
-
-#### ⚔️ [Pwn](pwn/README.md)
-- [d3kbus](pwn/d3kbus.md)
-- [d3kheap2pro](pwn/d3kheap2pro.md)
-
-#### 🔍 [Reverse Engineering](reverse-engineering/README.md)
-- [PacMan](reverse-engineering/pacman.md)
-- [d3gomoku](reverse-engineering/d3gomoku.md)
-- [d3llvm](reverse-engineering/d3llvm.md)
-
-#### 🌐 [Web](web/README.md)
-- [Ghost Zero](web/ghost-zero.md)
-- [Scope Drift](web/scope-drift.md)
-
+- [D3HFERP](../../cryptography/general/d3hferp.md) — Category: `Cryptography`
+- [Ghost Zero](../../web-exploitation/general/ghost-zero.md) — Category: `Web Exploitation`
+- [PacMan](../../reverse-engineering/general/pacman.md) — Category: `Reverse Engineering`
+- [Scope Drift](../../web-exploitation/general/scope-drift.md) — Category: `Web Exploitation`
+- [d3gomoku](../../reverse-engineering/general/d3gomoku.md) — Category: `Reverse Engineering`
+- [d3kbus](../../pwn/general/d3kbus.md) — Category: `Binary Exploitation`
+- [d3kheap2pro](../../pwn/heap/d3kheap2pro.md) — Category: `Binary Exploitation`
+- [d3llvm](../../reverse-engineering/general/d3llvm.md) — Category: `Reverse Engineering`
+- [proxyport](../../misc/general/proxyport.md) — Category: `Misc & Case Studies`

@@ -1,6 +1,6 @@
 # d3kheap2pro
 
-**Event**: `D3Ctf 2026` | **Category**: `Pwn`
+**Category**: `Binary Exploitation` | **Topic**: `Heap` | **Source / Event**: `D3Ctf 2026`
 
 ---
 
