@@ -36,6 +36,19 @@
   * [PacMan](ctf-writeups/d-3ctf-2026/pacman.md)
   * [Ghost Zero](ctf-writeups/d-3ctf-2026/ghost-zero.md)
   * [Scope Drift](ctf-writeups/d-3ctf-2026/scope-drift.md)
+* [Crackmes RE CTF 2026](ctf-writeups/crackmes-re-ctf-2026/README.md)
+  * [Maze](ctf-writeups/crackmes-re-ctf-2026/maze.md)
+  * [Wallpaper](ctf-writeups/crackmes-re-ctf-2026/wallpaper.md)
+  * [what did you type](ctf-writeups/crackmes-re-ctf-2026/what-did-you-type.md)
+  * [httpd](ctf-writeups/crackmes-re-ctf-2026/httpd.md)
+  * [date of birth](ctf-writeups/crackmes-re-ctf-2026/date-of-birth.md)
+  * [CryptPad](ctf-writeups/crackmes-re-ctf-2026/cryptpad.md)
+  * [connected](ctf-writeups/crackmes-re-ctf-2026/connected.md)
+  * [bubbly](ctf-writeups/crackmes-re-ctf-2026/bubbly.md)
+  * [BitCalc](ctf-writeups/crackmes-re-ctf-2026/bitcalc.md)
+  * [a matter of time](ctf-writeups/crackmes-re-ctf-2026/a-matter-of-time.md)
+  * [Matryoshka v2](ctf-writeups/crackmes-re-ctf-2026/matryoshka-v2.md)
+  * [FLRSCRNSVR](ctf-writeups/crackmes-re-ctf-2026/flrscrnsvr.md)
 
 ***
 
