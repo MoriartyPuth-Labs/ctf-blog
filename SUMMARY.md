@@ -35,6 +35,15 @@
   * [Overflow & Underflow Mechanics](binary-exploitation/integer-and-logic-bugs/overflow-and-underflow-mechanics.md)
   * [Signedness Mismatch & Negative Index OOB](binary-exploitation/integer-and-logic-bugs/signedness-mismatch-and-negative-index-oob.md)
   * [Truncation & Type Confusion](binary-exploitation/integer-and-logic-bugs/truncation-and-type-confusion.md)
+* [Linux Kernel Exploitation](binary-exploitation/linux-kernel-exploitation/README.md)
+  * [Architecture & Mitigations](binary-exploitation/linux-kernel-exploitation/architecture-and-mitigations.md)
+  * [Kernel ROP (kROP) & Privilege Escalation](binary-exploitation/linux-kernel-exploitation/kernel-rop-krop-and-privilege-escalation.md)
+  * [modprobe\_path & core\_pattern Overwrites](binary-exploitation/linux-kernel-exploitation/modprobe_path-and-core_pattern-overwrites.md)
+  * [SLUB Heap & tty\_struct Exploitation](binary-exploitation/linux-kernel-exploitation/slub-heap-and-tty_struct-exploitation.md)
+* [Sandbox Escapes & Seccomp Bypasses](binary-exploitation/sandbox-escapes-and-seccomp-bypasses/README.md)
+  * [Inspection & Open-Read-Write (ORW) Chains](binary-exploitation/sandbox-escapes-and-seccomp-bypasses/inspection-and-open-read-write-orw-chains.md)
+  * [Architecture Switching & 32-bit retf](binary-exploitation/sandbox-escapes-and-seccomp-bypasses/architecture-switching-and-32-bit-retf.md)
+  * [Syscall Aliasing & process\_vm\_readv](binary-exploitation/sandbox-escapes-and-seccomp-bypasses/syscall-aliasing-and-process_vm_readv.md)
 
 ## VULNHUB WRITEUPS
 
