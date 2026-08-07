@@ -53,7 +53,17 @@
   * [Blorg Multiplier](ctf-writeups/bronco-ctf-2026/blorg-multiplier.md)
   * [Consistently Static Psuedo Random Number Generator](ctf-writeups/bronco-ctf-2026/consistently-static-psuedo-random-number-generator.md)
   * [Custom Cipher](ctf-writeups/bronco-ctf-2026/custom-cipher.md)
+  * [Probably Unbreakable](ctf-writeups/bronco-ctf-2026/probably-unbreakable.md)
+  * [Garbage In, Flag Out](ctf-writeups/bronco-ctf-2026/garbage-in-flag-out.md)
   * [World's Hardestest Flag](ctf-writeups/bronco-ctf-2026/worlds-hardestest-flag.md)
+  * [Proper Pwning](ctf-writeups/bronco-ctf-2026/proper-pwning.md)
+  * [Crab Trap](ctf-writeups/bronco-ctf-2026/crab-trap.md)
+  * [Dog Simulator](ctf-writeups/bronco-ctf-2026/dog-simulator.md)
+  * [Cat Simulator](ctf-writeups/bronco-ctf-2026/cat-simulator.md)
+  * [WTF\_ELECTRICALENGINEERING](ctf-writeups/bronco-ctf-2026/wtf_electricalengineering.md)
+  * [Zip, Zip, Hooray!](ctf-writeups/bronco-ctf-2026/zip-zip-hooray.md)
+  * [EX-BOOST](ctf-writeups/bronco-ctf-2026/ex-boost.md)
+  * [LEts A go](ctf-writeups/bronco-ctf-2026/lets-a-go.md)
 
 ***
 
