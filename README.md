@@ -1,15 +1,15 @@
-# MoriartyPuth Labs - Cybersecurity Blog & Writeups
+# About
 
 Welcome to my personal cybersecurity research blog, technical notes, and CTF challenge writeups.
 
----
+***
 
-### 🗂️ Navigation
+### whoami
 
-1. **[👤 About Me](docs/about/README.md)** — Bio, certifications, and research focus.
-2. **[📚 Cybersecurity Notes](docs/notes/README.md)** — Core notes on Recon, Pwn, Web, Reverse Engineering, Crypto, Forensics, OSINT & Cloud.
-3. **[🏆 CTF Writeups](docs/ctf-writeups/README.md)** — Detailed challenge writeups across CTF events.
+Offensive security researcher based in Cambodia. I poke at API security, binary exploitation, and AI tooling — mostly because breaking things and understanding why they break is the fun part. uid=1337(moriarty) gid=1337(redteam), yes I assigned myself that. Fluent in Python, x86, and the fine art of writing very polite disclosure emails. Will reverse a stripped binary at 2am but cannot reverse my own sleep schedule.
 
----
+***
 
-*Maintained by [MoriartyPuth-Labs](https://github.com/MoriartyPuth-Labs).*
+#### Contexts
+
+This page is a playground for the projects I build on the side and whatever else I'm tinkering with and mostly just my ctf writeups and notes. Some of it solves real problems, some of it exists purely because it was interesting and one software decided to piss me off.
