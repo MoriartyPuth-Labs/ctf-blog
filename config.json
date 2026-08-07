@@ -1,0 +1,45 @@
+{
+  "github_orgs": [
+    "MoriartyPuth-Labs"
+  ],
+  "explicit_repos": [],
+  "local_sources": [],
+  "exclude_repos": [
+    ".github",
+    "gitbook-blog",
+    "ctf-gitbook-sync"
+  ],
+  "output_dir": "docs",
+  "summary_file": "SUMMARY.md",
+  "root_readme": "README.md",
+  "blog_title": "MoriartyPuth Labs - Cybersecurity & CTF Writeups",
+  "blog_description": "A curated collection of Capture The Flag (CTF) writeups, security research, and vulnerability analysis across Web, Pwn, Crypto, Reverse Engineering, Forensics, and OSINT.",
+  "category_order": [
+    "Web",
+    "Pwn",
+    "Reverse Engineering",
+    "Cryptography",
+    "Forensics",
+    "OSINT",
+    "Misc"
+  ],
+  "category_aliases": {
+    "web": "Web",
+    "web-exploitation": "Web",
+    "pwn": "Pwn",
+    "binary-exploitation": "Pwn",
+    "rev": "Reverse Engineering",
+    "reverse": "Reverse Engineering",
+    "reversing": "Reverse Engineering",
+    "crypto": "Cryptography",
+    "cryptography": "Cryptography",
+    "forensics": "Forensics",
+    "stego": "Forensics",
+    "osint": "OSINT",
+    "misc": "Misc",
+    "hardware": "Hardware",
+    "cloud": "Cloud",
+    "blockchain": "Blockchain",
+    "ai": "AI / ML"
+  }
+}

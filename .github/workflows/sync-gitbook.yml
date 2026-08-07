@@ -1,0 +1,43 @@
+name: Sync Writeups & Publish to GitBook
+
+on:
+  schedule:
+    # Automatically sync every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+  push:
+    branches:
+      - main
+
+jobs:
+  sync-and-build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Central GitBook Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run CTF GitBook Aggregator Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python ctf_gitbook_builder.py config.json
+
+      - name: Commit & Push GitBook Output to Main
+        run: |
+          git config --global user.name "MoriartyPuth-Bot"
+          git config --global user.email "bot@moriartyputh-labs.com"
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "No changes in CTF writeups detected."
+          else
+            git commit -m "chore(gitbook): auto-sync CTF writeups and update SUMMARY.md [skip ci]"
+            git push origin main
+          fi
