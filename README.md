@@ -6,7 +6,7 @@ Welcome to my personal cybersecurity research blog, technical notes, and CTF cha
 
 ### whoami
 
-Offensive security researcher based in Cambodia. I go by many alias such as moriartyputh, peanutcat, dostoesky. I poke at API security, binary exploitation, and AI tooling — mostly because breaking things and understanding why they break is the fun part. Fluent in Python, x86, and the fine art of writing very polite disclosure emails. Will reverse a stripped binary at 2am but cannot reverse my own sleep schedule.
+Offensive security researcher based in Cambodia. I go by many alias such as moriartyputh, peanutcat, dostoevsky. I poke at API security, binary exploitation, and AI tooling — mostly because breaking things and understanding why they break is the fun part. Fluent in Python, x86, and the fine art of writing very polite disclosure emails. Will reverse a stripped binary at 2am but cannot reverse my own sleep schedule.
 
 ***
 

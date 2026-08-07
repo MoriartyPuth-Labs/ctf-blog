@@ -26,6 +26,15 @@
   * [Freelist Bin Attacks](binary-exploitation/heap-exploitation/freelist-bin-attacks.md)
   * [House Techniques](binary-exploitation/heap-exploitation/house-techniques.md)
   * [Modern Heap & FSOP](binary-exploitation/heap-exploitation/modern-heap-and-fsop.md)
+* [FSOP & FILE Structure Attacks](binary-exploitation/fsop-and-file-structure-attacks/README.md)
+  * [IO FILE Structure Anatomy](binary-exploitation/fsop-and-file-structure-attacks/io-file-structure-anatomy.md)
+  * [stdout & stdin Leak](binary-exploitation/fsop-and-file-structure-attacks/stdout-and-stdin-leak.md)
+  * [Legacy Vtable Hijacking](binary-exploitation/fsop-and-file-structure-attacks/legacy-vtable-hijacking.md)
+  * [Modern FSOP & House of Apple 2](binary-exploitation/fsop-and-file-structure-attacks/modern-fsop-and-house-of-apple-2.md)
+* [Integer & Logic Bugs](binary-exploitation/integer-and-logic-bugs/README.md)
+  * [Overflow & Underflow Mechanics](binary-exploitation/integer-and-logic-bugs/overflow-and-underflow-mechanics.md)
+  * [Signedness Mismatch & Negative Index OOB](binary-exploitation/integer-and-logic-bugs/signedness-mismatch-and-negative-index-oob.md)
+  * [Truncation & Type Confusion](binary-exploitation/integer-and-logic-bugs/truncation-and-type-confusion.md)
 
 ## VULNHUB WRITEUPS
 
