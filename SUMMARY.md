@@ -4,12 +4,15 @@
 
 ## Writeups
 
-* [Cyber Arena 2026](writeups/cyber-arena-2026/README.md)
+* [Cambodia Cyber Arena 2026](writeups/cyber-arena-2026/README.md)
   * [Speedrun](writeups/cyber-arena-2026/speedrun.md)
   * [Off The Record](writeups/cyber-arena-2026/off-the-record.md)
   * [TrojanHorse](writeups/cyber-arena-2026/trojanhorse.md)
   * [nevergonna](writeups/cyber-arena-2026/nevergonna.md)
   * [Indigo Notes](writeups/cyber-arena-2026/indigo-notes.md)
+  * [Deathnote](writeups/cyber-arena-2026/deathnote.md)
+* [AUPP Certified Stalker 2026](writeups/aupp-certified-stalker-2026/README.md)
+  * [Static Web Basic](writeups/aupp-certified-stalker-2026/static-web-basic.md)
 
 ***
 
