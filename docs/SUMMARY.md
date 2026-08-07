@@ -31,7 +31,18 @@
     * 🌐 Web
       * [Ghost Zero](ctf-writeups/d3ctf-2026/web/ghost-zero.md)
       * [Scope Drift](ctf-writeups/d3ctf-2026/web/scope-drift.md)
-  * [CNCC 2026](ctf-writeups/cncc-2026/README.md)
+  * [Cambodia Cyber Arena 2026](ctf-writeups/cambodia-cyber-arena-2026/README.md)
+    * 🌐 Web
+      * [IndigoNotes](ctf-writeups/cambodia-cyber-arena-2026/web/indigonotes.md)
+    * ⚔️ Pwn
+      * [SpeedRun](ctf-writeups/cambodia-cyber-arena-2026/pwn/speedrun.md)
+      * [OffTheRecord](ctf-writeups/cambodia-cyber-arena-2026/pwn/offtherecord.md)
+    * 🔐 Crypto
+      * [TrojanHorse](ctf-writeups/cambodia-cyber-arena-2026/crypto/trojanhorse.md)
+    * 🔍 Reverse
+      * [nevergonna](ctf-writeups/cambodia-cyber-arena-2026/reverse/nevergonna.md)
+      * [DeathNote](ctf-writeups/cambodia-cyber-arena-2026/reverse/deathnote.md)
+
   * [Crackmes & RE](ctf-writeups/crackmes/README.md)
   * [VulnHub Writeups](ctf-writeups/vulnhub/README.md)
     * 🎲 Misc
