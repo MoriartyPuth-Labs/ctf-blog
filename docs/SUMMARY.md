@@ -1,6 +1,8 @@
 # Table of Contents
 
 * [🏠 Home](README.md)
+* [👤 About Me](about/README.md)
+
 
 ## ⚔️ Binary Exploitation
 * [Binary Exploitation Overview](pwn/README.md)
