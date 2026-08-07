@@ -7,6 +7,13 @@
 * [Katana](vulnhub-writeups/katana.md)
 * [Holynix v1](vulnhub-writeups/holynix-v1.md)
 * [SkyDog](vulnhub-writeups/skydog.md)
+* [Super Mario](vulnhub-writeups/super-mario.md)
+* [VulnOS: 1](vulnhub-writeups/vulnos-1.md)
+* [VulnOS 2.0](vulnhub-writeups/vulnos-2.0.md)
+* [Star Wars: 1](vulnhub-writeups/star-wars-1.md)
+* [Jigsaw: 1](vulnhub-writeups/jigsaw-1.md)
+* [Sunset: Dusk](vulnhub-writeups/sunset-dusk.md)
+* [Sunset: Sunrise](vulnhub-writeups/sunset-sunrise.md)
 
 ## CTF Writeups
 
