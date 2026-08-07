@@ -20,6 +20,12 @@
   * [Glibc Internals](binary-exploitation/format-string-vulnerabilities/glibc-internals.md)
   * [Stack Mutation](binary-exploitation/format-string-vulnerabilities/stack-mutation.md)
   * [Modern Sinks](binary-exploitation/format-string-vulnerabilities/modern-sinks.md)
+* [Heap Exploitation](binary-exploitation/heap-exploitation/README.md)
+  * [Allocator Mechanics](binary-exploitation/heap-exploitation/allocator-mechanics.md)
+  * [Classic Vulnerabilities](binary-exploitation/heap-exploitation/classic-vulnerabilities.md)
+  * [Freelist Bin Attacks](binary-exploitation/heap-exploitation/freelist-bin-attacks.md)
+  * [House Techniques](binary-exploitation/heap-exploitation/house-techniques.md)
+  * [Modern Heap & FSOP](binary-exploitation/heap-exploitation/modern-heap-and-fsop.md)
 
 ## VULNHUB WRITEUPS
 
