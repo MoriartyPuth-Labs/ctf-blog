@@ -48,6 +48,11 @@
   * [SEH (Structured Exception Handling) Overwrites](binary-exploitation/windows-binary-exploitation/seh-structured-exception-handling-overwrites.md)
   * [SafeSEH & SEHOP Bypasses](binary-exploitation/windows-binary-exploitation/safeseh-and-sehop-bypasses.md)
   * [DEP, VirtualProtect ROP & Control Flow Guard (CFG)](binary-exploitation/windows-binary-exploitation/dep-virtualprotect-rop-and-control-flow-guard-cfg.md)
+* [Memory Safety](binary-exploitation/memory-safety/README.md)
+  * [Spatial Memory Safety](binary-exploitation/memory-safety/spatial-memory-safety.md)
+  * [Temporal Memory Safety](binary-exploitation/memory-safety/temporal-memory-safety.md)
+  * [Hardware & OS Defenses](binary-exploitation/memory-safety/hardware-and-os-defenses.md)
+  * [Memory-Safe Languages & Mitigations](binary-exploitation/memory-safety/memory-safe-languages-and-mitigations.md)
 
 ## VULNHUB WRITEUPS
 
