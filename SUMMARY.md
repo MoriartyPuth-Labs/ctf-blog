@@ -2,6 +2,12 @@
 
 * [About](README.md)
 
+## Binary Exploitation
+
+* [ret2win](binary-exploitation/ret2win.md)
+* [ret2shell](binary-exploitation/ret2shell.md)
+* [ret2libc](binary-exploitation/ret2libc.md)
+
 ## VULNHUB WRITEUPS
 
 * [Katana](vulnhub-writeups/katana.md)
@@ -64,6 +70,11 @@
   * [Zip, Zip, Hooray!](ctf-writeups/bronco-ctf-2026/zip-zip-hooray.md)
   * [EX-BOOST](ctf-writeups/bronco-ctf-2026/ex-boost.md)
   * [LEts A go](ctf-writeups/bronco-ctf-2026/lets-a-go.md)
+* [LYKN CTF 2026](ctf-writeups/lykn-ctf-2026/README.md)
+  * [GlyphCache](ctf-writeups/lykn-ctf-2026/glyphcache.md)
+  * [H34p D3v1l](ctf-writeups/lykn-ctf-2026/h34p-d3v1l.md)
+  * [Golfing](ctf-writeups/lykn-ctf-2026/golfing.md)
+  * [ez pwn revenge](ctf-writeups/lykn-ctf-2026/ez-pwn-revenge.md)
 
 ***
 
