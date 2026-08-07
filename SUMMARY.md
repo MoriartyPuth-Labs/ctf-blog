@@ -44,6 +44,10 @@
   * [Inspection & Open-Read-Write (ORW) Chains](binary-exploitation/sandbox-escapes-and-seccomp-bypasses/inspection-and-open-read-write-orw-chains.md)
   * [Architecture Switching & 32-bit retf](binary-exploitation/sandbox-escapes-and-seccomp-bypasses/architecture-switching-and-32-bit-retf.md)
   * [Syscall Aliasing & process\_vm\_readv](binary-exploitation/sandbox-escapes-and-seccomp-bypasses/syscall-aliasing-and-process_vm_readv.md)
+* [Windows Binary Exploitation](binary-exploitation/windows-binary-exploitation/README.md)
+  * [SEH (Structured Exception Handling) Overwrites](binary-exploitation/windows-binary-exploitation/seh-structured-exception-handling-overwrites.md)
+  * [SafeSEH & SEHOP Bypasses](binary-exploitation/windows-binary-exploitation/safeseh-and-sehop-bypasses.md)
+  * [DEP, VirtualProtect ROP & Control Flow Guard (CFG)](binary-exploitation/windows-binary-exploitation/dep-virtualprotect-rop-and-control-flow-guard-cfg.md)
 
 ## VULNHUB WRITEUPS
 
