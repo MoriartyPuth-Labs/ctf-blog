@@ -1,73 +1,45 @@
 {
-  "github_orgs": [
-    "MoriartyPuth-Labs"
-  ],
-  "explicit_repos": [],
-  "local_sources": [],
-  "exclude_repos": [
-    ".github",
-    "gitbook-blog",
-    "ctf-gitbook-sync"
+  "ctf_repos": [
+    {
+      "name": "D3CTF 2026",
+      "slug": "d3ctf-2026",
+      "repo_url": "https://github.com/MoriartyPuth-Labs/D3CTF-Writeups.git"
+    },
+    {
+      "name": "CNCC 2026",
+      "slug": "cncc-2026",
+      "repo_url": "https://github.com/MoriartyPuth-Labs/CNCC-2026-WriteUp.git"
+    },
+    {
+      "name": "Crackmes & RE",
+      "slug": "crackmes",
+      "repo_url": "https://github.com/MoriartyPuth-Labs/Crackmes-WriteUp.git"
+    },
+    {
+      "name": "VulnHub Writeups",
+      "slug": "vulnhub",
+      "repo_url": "https://github.com/MoriartyPuth-Labs/Vulnhub-WriteUp.git"
+    },
+    {
+      "name": "LYKN CTF",
+      "slug": "lykn-ctf",
+      "repo_url": "https://github.com/MoriartyPuth-Labs/LYKN-CTF-Writeup.git"
+    },
+    {
+      "name": "Bronco CTF",
+      "slug": "bronco-ctf",
+      "repo_url": "https://github.com/MoriartyPuth-Labs/BroncoCTF-Writeup.git"
+    }
   ],
   "output_dir": "docs",
-  "summary_file": "SUMMARY.md",
-  "root_readme": "README.md",
-  "blog_title": "MoriartyPuth Labs - Security Research & CTF Notes",
-  "blog_description": "Comprehensive cybersecurity notes, binary exploitation, reverse engineering, web security, cryptography, and CTF challenge writeups.",
-  "categories": {
-    "Binary Exploitation": {
-      "icon": "⚔️",
-      "slug": "pwn",
-      "subcategories": ["Stack", "Heap", "Format Strings", "Kernel", "Shellcode", "ROP", "General"]
-    },
-    "Reverse Engineering": {
-      "icon": "🔍",
-      "slug": "reverse-engineering",
-      "subcategories": ["Assembly", "Decompilation", "Crackmes", "Malware", "General"]
-    },
-    "Web Exploitation": {
-      "icon": "🌐",
-      "slug": "web-exploitation",
-      "subcategories": ["SQL Injection", "XSS", "SSTI", "SSRF", "Authentication Bypass", "General"]
-    },
-    "Cryptography": {
-      "icon": "🔐",
-      "slug": "cryptography",
-      "subcategories": ["RSA", "AES", "ECC", "Lattice", "General"]
-    },
-    "Forensics": {
-      "icon": "🕵️",
-      "slug": "forensics",
-      "subcategories": ["Memory", "Network", "Steganography", "General"]
-    },
-    "OSINT": {
-      "icon": "🧭",
-      "slug": "osint",
-      "subcategories": ["Geolocation", "Recon", "General"]
-    },
-    "Misc & Case Studies": {
-      "icon": "🎲",
-      "slug": "misc",
-      "subcategories": ["Security Case Studies", "Labs", "General"]
-    }
-  },
-  "category_aliases": {
-    "pwn": "Binary Exploitation",
-    "binary-exploitation": "Binary Exploitation",
-    "binary": "Binary Exploitation",
-    "rev": "Reverse Engineering",
-    "reverse": "Reverse Engineering",
-    "reversing": "Reverse Engineering",
-    "crackme": "Reverse Engineering",
-    "web": "Web Exploitation",
-    "web-exploitation": "Web Exploitation",
-    "crypto": "Cryptography",
-    "cryptography": "Cryptography",
-    "forensics": "Forensics",
-    "stego": "Forensics",
-    "osint": "OSINT",
-    "misc": "Misc & Case Studies",
-    "case-study": "Misc & Case Studies",
-    "lab": "Misc & Case Studies"
-  }
+  "notes_categories": [
+    {"name": "Reconnaissance & Enumeration", "slug": "recon", "icon": "🔍"},
+    {"name": "Binary Exploitation (Pwn)", "slug": "pwn", "icon": "⚔️"},
+    {"name": "Web Exploitation", "slug": "web", "icon": "🌐"},
+    {"name": "Reverse Engineering", "slug": "reverse", "icon": "🔍"},
+    {"name": "Cryptography", "slug": "crypto", "icon": "🔐"},
+    {"name": "Digital Forensics", "slug": "forensics", "icon": "🕵️"},
+    {"name": "OSINT", "slug": "osint", "icon": "🧭"},
+    {"name": "Cloud & Infrastructure", "slug": "cloud", "icon": "☁️"}
+  ]
 }

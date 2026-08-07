@@ -1,27 +1,14 @@
-# MoriartyPuth Labs - Security Research & CTF Notes
+# MoriartyPuth Labs - Cybersecurity Blog & Writeups
 
-Comprehensive cybersecurity notes, binary exploitation, reverse engineering, web security, cryptography, and CTF challenge writeups.
-
-> Inspired by [ir0nstone's notes](https://ir0nstone.gitbook.io/notes).
+Welcome to my cybersecurity blog!
 
 ---
 
-### 🧭 Navigation & Sections
+### 🗂️ Navigation
 
-| Category | Description | Count |
-| :--- | :--- | :--- |
-| **⚔️ [Binary Exploitation](pwn/README.md)** | Key concepts, writeups, and techniques | `3` |
-| **🔍 [Reverse Engineering](reverse-engineering/README.md)** | Key concepts, writeups, and techniques | `5` |
-| **🌐 [Web Exploitation](web-exploitation/README.md)** | Key concepts, writeups, and techniques | `2` |
-| **🔐 [Cryptography](cryptography/README.md)** | Key concepts, writeups, and techniques | `1` |
-| **🎲 [Misc & Case Studies](misc/README.md)** | Key concepts, writeups, and techniques | `1` |
-
----
-
-### 📊 Quick Stats
-
-- 🚩 **Total Writeups & Notes**: `12`
-- 🏆 **CTF Competitions Archived**: `3`
+1. **[👤 About Me](about/README.md)** — Bio, certifications, and research focus.
+2. **[📚 Cybersecurity Notes](notes/README.md)** — Core notes on Recon, Pwn, Web, Rev, Crypto, Forensics, OSINT & Cloud.
+3. **[🏆 CTF Writeups](ctf-writeups/README.md)** — Detailed challenge writeups across CTF events.
 
 ---
 
