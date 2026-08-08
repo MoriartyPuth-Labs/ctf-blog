@@ -108,6 +108,15 @@
   * [H34p D3v1l](ctf-writeups/lykn-ctf-2026/h34p-d3v1l.md)
   * [Golfing](ctf-writeups/lykn-ctf-2026/golfing.md)
   * [ez pwn revenge](ctf-writeups/lykn-ctf-2026/ez-pwn-revenge.md)
+  * [i hate this app revenge](ctf-writeups/lykn-ctf-2026/i-hate-this-app-revenge.md)
+  * [inferior student](ctf-writeups/lykn-ctf-2026/inferior-student.md)
+  * [Waguri 2](ctf-writeups/lykn-ctf-2026/waguri-2.md)
+  * [Noisy Broadcast](ctf-writeups/lykn-ctf-2026/noisy-broadcast.md)
+  * [Postbox](ctf-writeups/lykn-ctf-2026/postbox.md)
+  * [Shortcut](ctf-writeups/lykn-ctf-2026/shortcut.md)
+  * [Twelve Steps](ctf-writeups/lykn-ctf-2026/twelve-steps.md)
+  * [Whispering](ctf-writeups/lykn-ctf-2026/whispering.md)
+  * [Thanh Hoa 1](ctf-writeups/lykn-ctf-2026/thanh-hoa-1.md)
 
 ## VULNHUB WRITEUPS
 
