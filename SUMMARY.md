@@ -65,6 +65,11 @@
   * [Data-Oriented Programming (DOP)](binary-exploitation/advanced-mitigation-bypasses/data-oriented-programming-dop.md)
 * [Browser Engine & JIT Exploitation](binary-exploitation/browser-engine-and-jit-exploitation/README.md)
   * [Browser & JIT Exploitation](binary-exploitation/browser-engine-and-jit-exploitation/browser-and-jit-exploitation.md)
+  * [JS Engine Internals](binary-exploitation/browser-engine-and-jit-exploitation/js-engine-internals.md)
+  * [Type Confusion](binary-exploitation/browser-engine-and-jit-exploitation/type-confusion.md)
+  * [ArrayBuffer R/W](binary-exploitation/browser-engine-and-jit-exploitation/arraybuffer-r-w.md)
+  * [JIT Optimization Bugs](binary-exploitation/browser-engine-and-jit-exploitation/jit-optimization-bugs.md)
+  * [WASM RWX Execution](binary-exploitation/browser-engine-and-jit-exploitation/wasm-rwx-execution.md)
 
 ## CTF Writeups
 
