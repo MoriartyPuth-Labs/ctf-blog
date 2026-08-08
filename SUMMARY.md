@@ -150,3 +150,5 @@
 * [Jigsaw: 1](vulnhub-writeups/jigsaw-1.md)
 * [Sunset: Dusk](vulnhub-writeups/sunset-dusk.md)
 * [Sunset: Sunrise](vulnhub-writeups/sunset-sunrise.md)
+* [Bulldog: 1](vulnhub-writeups/bulldog-1.md)
+* [DC-1](vulnhub-writeups/dc-1.md)
