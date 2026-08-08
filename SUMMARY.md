@@ -31,6 +31,7 @@
   * [Freelist Bin Attacks](binary-exploitation/heap-exploitation/freelist-bin-attacks.md)
   * [House Techniques](binary-exploitation/heap-exploitation/house-techniques.md)
   * [Modern Heap & FSOP](binary-exploitation/heap-exploitation/modern-heap-and-fsop.md)
+  * [Heap Feng Shui & Grooming](binary-exploitation/heap-exploitation/heap-feng-shui-and-grooming.md)
 * [FSOP & FILE Structure Attacks](binary-exploitation/fsop-and-file-structure-attacks/README.md)
   * [IO FILE Structure Anatomy](binary-exploitation/fsop-and-file-structure-attacks/io-file-structure-anatomy.md)
   * [stdout & stdin Leak](binary-exploitation/fsop-and-file-structure-attacks/stdout-and-stdin-leak.md)
@@ -45,6 +46,7 @@
   * [Kernel ROP (kROP) & Privilege Escalation](binary-exploitation/linux-kernel-exploitation/kernel-rop-krop-and-privilege-escalation.md)
   * [modprobe\_path & core\_pattern Overwrites](binary-exploitation/linux-kernel-exploitation/modprobe_path-and-core_pattern-overwrites.md)
   * [SLUB Heap & tty\_struct Exploitation](binary-exploitation/linux-kernel-exploitation/slub-heap-and-tty_struct-exploitation.md)
+  * [eBPF Verifier Exploitation](binary-exploitation/linux-kernel-exploitation/ebpf-verifier-exploitation.md)
 * [Sandbox Escapes & Seccomp Bypasses](binary-exploitation/sandbox-escapes-and-seccomp-bypasses/README.md)
   * [Inspection & Open-Read-Write (ORW) Chains](binary-exploitation/sandbox-escapes-and-seccomp-bypasses/inspection-and-open-read-write-orw-chains.md)
   * [Architecture Switching & 32-bit retf](binary-exploitation/sandbox-escapes-and-seccomp-bypasses/architecture-switching-and-32-bit-retf.md)
@@ -53,11 +55,16 @@
   * [SEH (Structured Exception Handling) Overwrites](binary-exploitation/windows-binary-exploitation/seh-structured-exception-handling-overwrites.md)
   * [SafeSEH & SEHOP Bypasses](binary-exploitation/windows-binary-exploitation/safeseh-and-sehop-bypasses.md)
   * [DEP, VirtualProtect ROP & Control Flow Guard (CFG)](binary-exploitation/windows-binary-exploitation/dep-virtualprotect-rop-and-control-flow-guard-cfg.md)
+  * [ARM64 PAC & MTE Exploitation](binary-exploitation/windows-binary-exploitation/arm64-pac-and-mte-exploitation.md)
 * [Memory Safety](binary-exploitation/memory-safety/README.md)
   * [Spatial Memory Safety](binary-exploitation/memory-safety/spatial-memory-safety.md)
   * [Temporal Memory Safety](binary-exploitation/memory-safety/temporal-memory-safety.md)
   * [Hardware & OS Defenses](binary-exploitation/memory-safety/hardware-and-os-defenses.md)
   * [Memory-Safe Languages & Mitigations](binary-exploitation/memory-safety/memory-safe-languages-and-mitigations.md)
+* [Advanced Mitigation Bypasses](binary-exploitation/advanced-mitigation-bypasses/README.md)
+  * [Data-Oriented Programming (DOP)](binary-exploitation/advanced-mitigation-bypasses/data-oriented-programming-dop.md)
+* [Browser Engine & JIT Exploitation](binary-exploitation/browser-engine-and-jit-exploitation/README.md)
+  * [Browser & JIT Exploitation](binary-exploitation/browser-engine-and-jit-exploitation/browser-and-jit-exploitation.md)
 
 ## CTF Writeups
 
