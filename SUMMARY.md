@@ -138,6 +138,22 @@
   * [Whispering](ctf-writeups/lykn-ctf-2026/whispering.md)
   * [Thanh Hoa 1](ctf-writeups/lykn-ctf-2026/thanh-hoa-1.md)
 
+## Crackmes Writeups
+
+* [Lack's Level Series](crackmes-writeups/lacks-level-series/README.md)
+  * [Level 1](crackmes-writeups/lacks-level-series/level-1.md)
+  * [Level 2](crackmes-writeups/lacks-level-series/level-2.md)
+  * [Level 3](crackmes-writeups/lacks-level-series/level-3.md)
+  * [Level 4](crackmes-writeups/lacks-level-series/level-4.md)
+  * [Level 5](crackmes-writeups/lacks-level-series/level-5.md)
+  * [Level 6](crackmes-writeups/lacks-level-series/level-6.md)
+  * [Level 7](crackmes-writeups/lacks-level-series/level-7.md)
+  * [Level 8](crackmes-writeups/lacks-level-series/level-8.md)
+  * [Level 9](crackmes-writeups/lacks-level-series/level-9.md)
+  * [Level 10 (BOSS)](crackmes-writeups/lacks-level-series/level-10-boss.md)
+  * [Level 11 (Ultimate Boss)](crackmes-writeups/lacks-level-series/level-11-ultimate-boss.md)
+  * [Level 12 (Ultimate Real Boss)](crackmes-writeups/lacks-level-series/level-12-ultimate-real-boss.md)
+
 ## VULNHUB WRITEUPS
 
 * [Katana](vulnhub-writeups/katana.md)
