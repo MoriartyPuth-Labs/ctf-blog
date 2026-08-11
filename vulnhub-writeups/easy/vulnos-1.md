@@ -1,7 +1,7 @@
 # VulnOS: 1
 
 **Target:** VulnOS 1 by c4b3rw0lf\
-**Difficulty:** Beginner\
+**Difficulty:** Easy\
 **Goal:** Obtain root and retrieve the flag\
 **Source:** [VulnHub](https://www.vulnhub.com/)
 

@@ -2,7 +2,7 @@
 
 **Target:** Bulldog: 1 by Nick Frichette
 
-**Difficulty:** Beginner–Intermediate&#x20;
+**Difficulty:** Medium
 
 **Goal:** `/root/congrats.txt` as root
 

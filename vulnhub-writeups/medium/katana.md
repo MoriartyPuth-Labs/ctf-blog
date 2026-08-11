@@ -1,7 +1,7 @@
 # Katana
 
 **Target:** Katana v1 by SunCSR Team\
-**Difficulty:** Intermediate\
+**Difficulty:** Medium\
 **Goal:** Gain root and read the root flag\
 **Source:** [VulnHub](https://www.vulnhub.com/entry/katana-1,482/)
 

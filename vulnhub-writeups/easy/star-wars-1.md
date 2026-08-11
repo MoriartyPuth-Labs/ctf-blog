@@ -1,7 +1,7 @@
 # Star Wars: 1
 
 **Target:** Star Wars CTF 1 by Sir Logic Team\
-**Difficulty:** Beginner\
+**Difficulty:** Easy\
 **Goal:** Gain root and capture the flag\
 **Source:** [VulnHub](https://www.vulnhub.com/entry/star-wars-ctf-1,528/)
 

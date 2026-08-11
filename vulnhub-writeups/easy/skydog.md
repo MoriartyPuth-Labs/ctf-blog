@@ -1,7 +1,7 @@
 # SkyDog
 
 **Target:** SkyDog VM by James Bower\
-**Difficulty:** Beginner–Intermediate\
+**Difficulty:** Easy\
 **Flags:** 6 (all MD5, require cracking)\
 **Source:** [VulnHub](https://www.vulnhub.com/entry/skydog-1,159/)
 

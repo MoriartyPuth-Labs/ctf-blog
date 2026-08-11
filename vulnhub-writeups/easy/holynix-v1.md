@@ -1,7 +1,7 @@
 # Holynix v1
 
 **Target:** Holynix v1 by c4b3rw0lf\
-**Difficulty:** Beginner\
+**Difficulty:** Easy\
 **Goal:** Boot 2 Root — obtain root access\
 **Source:** [VulnHub](https://www.vulnhub.com/entry/holynix-v1,20/)
 

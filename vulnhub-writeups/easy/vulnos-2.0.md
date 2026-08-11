@@ -1,7 +1,7 @@
 # VulnOS 2.0
 
 **Target:** VulnOS 2.0 by c4b3rw0lf\
-**Difficulty:** Beginner\
+**Difficulty:** Easy\
 **Goal:** Get root and read the final flag\
 **Source:** [VulnHub](https://www.vulnhub.com/)
 

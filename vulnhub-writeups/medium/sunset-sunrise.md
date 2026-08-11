@@ -2,7 +2,7 @@
 
 **Target:** Sunset: Sunrise by whitecr0wz&#x20;
 
-**Difficulty:** Beginner–Intermediate&#x20;
+**Difficulty:** Medium
 
 **Goal:** Get root and read the root flag&#x20;
 

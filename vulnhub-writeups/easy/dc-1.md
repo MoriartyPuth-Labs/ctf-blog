@@ -2,7 +2,7 @@
 
 **Target:** DC-1 by DCAU
 
-**Difficulty:** Beginner
+**Difficulty:** Easy
 
 **Goal:** Root the machine
 

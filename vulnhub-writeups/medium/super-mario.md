@@ -1,7 +1,7 @@
 # Super Mario
 
 **Target:** Super Mario Host v1.0.1 by Mr\_h4sh\
-**Difficulty:** Intermediate\
+**Difficulty:** Medium\
 **Flags:** 2 (both require cracking)\
 **Source:** [VulnHub](https://download.vulnhub.com/supermariohost/Super-Mario-Host-v1.0.1.ova.torrent)
 

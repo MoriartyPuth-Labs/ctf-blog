@@ -1,7 +1,7 @@
 # Sunset: Dusk
 
 **Target:** Sunset: Dusk by whitecr0wz\
-**Difficulty:** Beginner\
+**Difficulty:** Easy\
 **Goal:** Get root and read both flags\
 **Source:** [VulnHub](https://www.vulnhub.com/entry/sunset-dusk,404/)
 
