@@ -15,6 +15,17 @@
 * [Language-Specific Reverse Engineering](reverse-engineering/language-specific-reverse-engineering/README.md)
   * [Go, Rust, & C++ Binary Reversing](reverse-engineering/language-specific-reverse-engineering/go-rust-and-c++-binary-reversing.md)
   * [Managed Bytecode (Python, .NET, Java)](reverse-engineering/language-specific-reverse-engineering/managed-bytecode-python-.net-java.md)
+* [Mobile, Web & Multi-Platform RE](reverse-engineering/mobile-web-and-multi-platform-re/README.md)
+  * [Android & Mobile Application RE](reverse-engineering/mobile-web-and-multi-platform-re/android-and-mobile-application-re.md)
+  * [WebAssembly (WASM) & Web RE](reverse-engineering/mobile-web-and-multi-platform-re/webassembly-wasm-and-web-re.md)
+  * [macOS & iOS Mach-O Reversing](reverse-engineering/mobile-web-and-multi-platform-re/macos-and-ios-mach-o-reversing.md)
+* [Game Engines, Firmware & Hardware RE](reverse-engineering/game-engines-firmware-and-hardware-re/README.md)
+  * [Hardware, Firmware, & Kernel Drivers](reverse-engineering/game-engines-firmware-and-hardware-re/hardware-firmware-and-kernel-drivers.md)
+  * [Game Engines & Asset Extraction](reverse-engineering/game-engines-firmware-and-hardware-re/game-engines-and-asset-extraction.md)
+* [Virtual Machines, Side-Channels & Symbolic Solvers](reverse-engineering/virtual-machines-side-channels-and-symbolic-solvers/README.md)
+  * [Custom VM Reversing & Bytecode Lifting](reverse-engineering/virtual-machines-side-channels-and-symbolic-solvers/custom-vm-reversing-and-bytecode-lifting.md)
+  * [Symbolic Execution (angr), Qiling, & Z3](reverse-engineering/virtual-machines-side-channels-and-symbolic-solvers/symbolic-execution-angr-qiling-and-z3.md)
+  * [Side-Channel & Timing Attacks](reverse-engineering/virtual-machines-side-channels-and-symbolic-solvers/side-channel-and-timing-attacks.md)
 
 ## Binary Exploitation
 
