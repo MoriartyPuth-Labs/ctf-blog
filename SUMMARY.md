@@ -26,6 +26,9 @@
   * [Custom VM Reversing & Bytecode Lifting](reverse-engineering/virtual-machines-side-channels-and-symbolic-solvers/custom-vm-reversing-and-bytecode-lifting.md)
   * [Symbolic Execution (angr), Qiling, & Z3](reverse-engineering/virtual-machines-side-channels-and-symbolic-solvers/symbolic-execution-angr-qiling-and-z3.md)
   * [Side-Channel & Timing Attacks](reverse-engineering/virtual-machines-side-channels-and-symbolic-solvers/side-channel-and-timing-attacks.md)
+* [Cryptographic Algorithm & Math RE](reverse-engineering/cryptographic-algorithm-and-math-re/README.md)
+  * [Cryptographic & Math Algorithm Reversing](reverse-engineering/cryptographic-algorithm-and-math-re/cryptographic-and-math-algorithm-reversing.md)
+* [Binary Diffing & Patching](reverse-engineering/binary-diffing-and-patching.md)
 
 ## Binary Exploitation
 
