@@ -2,6 +2,20 @@
 
 * [About](README.md)
 
+## Reverse Engineering
+
+* [Compiled Binaries & Static/Dynamic Triage](reverse-engineering/compiled-binaries-and-static-dynamic-triage/README.md)
+  * [Binary Triage Static](reverse-engineering/compiled-binaries-and-static-dynamic-triage/binary-triage-static.md)
+  * [Dynamic Analysis with GDB, pwndbg, & Tracing](reverse-engineering/compiled-binaries-and-static-dynamic-triage/dynamic-analysis-with-gdb-pwndbg-and-tracing.md)
+* [Anti-Analysis, Anti-Debugging & Obfuscation](reverse-engineering/anti-analysis-anti-debugging-and-obfuscation/README.md)
+  * [Anti-Debugging & Anti-Analysis Bypasses](reverse-engineering/anti-analysis-anti-debugging-and-obfuscation/anti-debugging-and-anti-analysis-bypasses.md)
+  * [Obfuscation & Deobfuscation Techniques](reverse-engineering/anti-analysis-anti-debugging-and-obfuscation/obfuscation-and-deobfuscation-techniques.md)
+  * [Self-Modifying Code (SMC), Nanomites, & Loaders](reverse-engineering/anti-analysis-anti-debugging-and-obfuscation/self-modifying-code-smc-nanomites-and-loaders.md)
+  * [OLLVM & Compiler Obfuscations](reverse-engineering/anti-analysis-anti-debugging-and-obfuscation/ollvm-and-compiler-obfuscations.md)
+* [Language-Specific Reverse Engineering](reverse-engineering/language-specific-reverse-engineering/README.md)
+  * [Go, Rust, & C++ Binary Reversing](reverse-engineering/language-specific-reverse-engineering/go-rust-and-c++-binary-reversing.md)
+  * [Managed Bytecode (Python, .NET, Java)](reverse-engineering/language-specific-reverse-engineering/managed-bytecode-python-.net-java.md)
+
 ## Binary Exploitation
 
 * [Stack Exploitation & ROP](binary-exploitation/stack-exploitation-and-rop/README.md)
