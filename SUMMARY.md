@@ -27,8 +27,21 @@
   * [Symbolic Execution (angr), Qiling, & Z3](reverse-engineering/virtual-machines-side-channels-and-symbolic-solvers/symbolic-execution-angr-qiling-and-z3.md)
   * [Side-Channel & Timing Attacks](reverse-engineering/virtual-machines-side-channels-and-symbolic-solvers/side-channel-and-timing-attacks.md)
 * [Cryptographic Algorithm & Math RE](reverse-engineering/cryptographic-algorithm-and-math-re/README.md)
-  * [Cryptographic & Math Algorithm Reversing](reverse-engineering/cryptographic-algorithm-and-math-re/cryptographic-and-math-algorithm-reversing.md)
-* [Binary Diffing & Patching](reverse-engineering/binary-diffing-and-patching.md)
+  * [Standard Crypto Algorithm Identification](reverse-engineering/cryptographic-algorithm-and-math-re/standard-crypto-algorithm-identification.md)
+  * [Custom Ciphers, LFSRs, & Feistel](reverse-engineering/cryptographic-algorithm-and-math-re/custom-ciphers-lfsrs-and-feistel.md)
+  * [Math Transforms & Z3 Constraint Solving](reverse-engineering/cryptographic-algorithm-and-math-re/math-transforms-and-z3-constraint-solving.md)
+* [Binary Diffing & Patching](reverse-engineering/binary-diffing-and-patching/README.md)
+  * [BinDiff & Diaphora](reverse-engineering/binary-diffing-and-patching/bindiff-and-diaphora.md)
+  * [Binary Patching with Radare2, LIEF & Ghidra](reverse-engineering/binary-diffing-and-patching/binary-patching-with-radare2-lief-and-ghidra.md)
+  * [Runtime Hooking & DLL Injection](reverse-engineering/binary-diffing-and-patching/runtime-hooking-and-dll-injection.md)
+* [Malware Config & API Hashing RE](reverse-engineering/malware-config-and-api-hashing-re/README.md)
+  * [Dynamic API Hash Resolution](reverse-engineering/malware-config-and-api-hashing-re/dynamic-api-hash-resolution.md)
+  * [Malware C2 Config Extraction](reverse-engineering/malware-config-and-api-hashing-re/malware-c2-config-extraction.md)
+  * [Anti-Sandbox & Evasion Bypasses](reverse-engineering/malware-config-and-api-hashing-re/anti-sandbox-and-evasion-bypasses.md)
+* [AI / ML Model RE](reverse-engineering/ai-ml-model-re/README.md)
+  * [ONNX & TFLite Model Decompilation](reverse-engineering/ai-ml-model-re/onnx-and-tflite-model-decompilation.md)
+  * [Weight Extraction & Layer Inversion](reverse-engineering/ai-ml-model-re/weight-extraction-and-layer-inversion.md)
+  * [Decision Trees & DNN to Z3 Constraints](reverse-engineering/ai-ml-model-re/decision-trees-and-dnn-to-z3-constraints.md)
 
 ## Binary Exploitation
 
