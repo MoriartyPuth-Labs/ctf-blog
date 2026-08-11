@@ -153,6 +153,7 @@
   * [Level 10 (BOSS)](crackmes-writeups/lacks-level-series/level-10-boss.md)
   * [Level 11 (Ultimate Boss)](crackmes-writeups/lacks-level-series/level-11-ultimate-boss.md)
   * [Level 12 (Ultimate Real Boss)](crackmes-writeups/lacks-level-series/level-12-ultimate-real-boss.md)
+* [The Alchemist's Lock](crackmes-writeups/the-alchemists-lock.md)
 
 ## VULNHUB WRITEUPS
 
