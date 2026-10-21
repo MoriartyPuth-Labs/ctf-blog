@@ -4,17 +4,12 @@ All challenge writeups from **D3CTF 2026**.
 
 ### Total Challenges Solved: `9`
 
-#### 🎲 Misc
-- [proxyport](misc/proxyport.md)
-
-#### 🔍 Reverse
-- [PacMan](reverse/pacman.md)
-- [d3gomoku](reverse/d3gomoku.md)
-- [d3llvm](reverse/d3llvm.md)
-
 #### 🌐 Web
 - [Ghost Zero](web/ghost-zero.md)
 - [Scope Drift](web/scope-drift.md)
+
+#### 🎲 Misc
+- [proxyport](misc/proxyport.md)
 
 #### ⚔️ Pwn
 - [d3kbus](pwn/d3kbus.md)
@@ -22,4 +17,9 @@ All challenge writeups from **D3CTF 2026**.
 
 #### 🔐 Crypto
 - [D3HFERP](crypto/d3hferp.md)
+
+#### 🔍 Reverse
+- [PacMan](reverse/pacman.md)
+- [d3gomoku](reverse/d3gomoku.md)
+- [d3llvm](reverse/d3llvm.md)
 
