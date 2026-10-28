@@ -16,9 +16,3 @@ Github: [https://github.com/MoriartyPuth](https://github.com/MoriartyPuth)
 
 Hackthebox: [https://app.hackthebox.com/users/3188797](https://app.hackthebox.com/users/3188797)
 
-***
-
-## Disclaimer
-
-I will continue to update this blog daily. If you want to see my full collection of writeups just go to my portfolio [https://moriartyputh.github.io/](https://moriartyputh.github.io/)
-
