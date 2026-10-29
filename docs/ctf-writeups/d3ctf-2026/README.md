@@ -12,14 +12,14 @@ All challenge writeups from **D3CTF 2026**.
 #### 🔐 Crypto
 - [D3HFERP](crypto/d3hferp.md)
 
-#### ⚔️ Pwn
-- [d3kbus](pwn/d3kbus.md)
-- [d3kheap2pro](pwn/d3kheap2pro.md)
-
 #### 🌐 Web
 - [Ghost Zero](web/ghost-zero.md)
 - [Scope Drift](web/scope-drift.md)
 
 #### 🎲 Misc
 - [proxyport](misc/proxyport.md)
+
+#### ⚔️ Pwn
+- [d3kbus](pwn/d3kbus.md)
+- [d3kheap2pro](pwn/d3kheap2pro.md)
 
