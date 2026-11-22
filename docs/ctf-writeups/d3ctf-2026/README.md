@@ -7,6 +7,9 @@ All challenge writeups from **D3CTF 2026**.
 #### 🎲 Misc
 - [proxyport](misc/proxyport.md)
 
+#### 🔐 Crypto
+- [D3HFERP](crypto/d3hferp.md)
+
 #### 🔍 Reverse
 - [PacMan](reverse/pacman.md)
 - [d3gomoku](reverse/d3gomoku.md)
@@ -19,7 +22,4 @@ All challenge writeups from **D3CTF 2026**.
 #### ⚔️ Pwn
 - [d3kbus](pwn/d3kbus.md)
 - [d3kheap2pro](pwn/d3kheap2pro.md)
-
-#### 🔐 Crypto
-- [D3HFERP](crypto/d3hferp.md)
 
